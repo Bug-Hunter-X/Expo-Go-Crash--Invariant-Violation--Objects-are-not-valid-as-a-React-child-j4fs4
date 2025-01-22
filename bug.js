@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test your React Native application.  The app crashes and displays an error message similar to "Invariant Violation: Objects are not valid as a React child (found: object with keys {uri})."
